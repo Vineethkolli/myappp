@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vineethkolli/myappp.git/static/css/main.f855e6bc.css",
+    "main.js": "/Vineethkolli/myappp.git/static/js/main.c576825b.js",
+    "index.html": "/Vineethkolli/myappp.git/index.html",
+    "main.f855e6bc.css.map": "/Vineethkolli/myappp.git/static/css/main.f855e6bc.css.map",
+    "main.c576825b.js.map": "/Vineethkolli/myappp.git/static/js/main.c576825b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c576825b.js"
+  ]
+}
