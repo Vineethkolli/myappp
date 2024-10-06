@@ -1,6 +1,6 @@
 {
-  "short_name": "MyApp",
-  "name": "My Progressive Web App",
+  "short_name": "TrialApp",
+  "name": "Trial App",
   "icons": [
     {
       "src": "favicon.ico",
